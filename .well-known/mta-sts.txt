@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: mail.maestrosoft.ru
+max_age: 86400
